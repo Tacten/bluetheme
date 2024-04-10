@@ -6,7 +6,7 @@ Custom Theme for ERPNext v12 on the new Desk 2.0
 
 To install bluetheme,
 
-1. bench get-app https://github.com/hashirluv/bluetheme.git
+1. bench get-app https://github.com/tacten/bluetheme.git
 2. bench --site (sitename) install-app bluetheme
 3. bench clear-cache
 
